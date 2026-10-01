@@ -1,4 +1,8 @@
-# Hi, I'm João Vitor 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Systems+Analyst+%26+Developer;Java+%7C+Spring+Boot+%7C+Angular)](https://github.com/joaocrvalho)
+
+</div>
 
 **Full stack Developer** 
 
