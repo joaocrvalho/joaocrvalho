@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Systems+Analyst+%26+Developer;)](https://github.com/joaocrvalho)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Developer%2C+Software+Engineer+%26+Systems+Analyst)](https://github.com/joaocrvalho)
 
 </div>
 
